@@ -17,7 +17,21 @@
 	  "id":3,
 	  "name":"Tarek Mahmoud",
 	  "username":"tarek.mahmoud_",
-	  "email":"zezoshaheen22@gmail.com",
+	  "email":"Tarekmahmoud.official@gmail.com",
 	  "phone":"+201100045566"
+	},
+	{
+	  "id":4,
+	  "name":"Haidy Hassan",
+	  "username":"haiiiidyhassan",
+	  "email":"heidihassan9@gmail.com",
+	  "phone":"+201285201017"
+	},
+	{
+	  "id":5,
+	  "name":"Youssef Mosalam",
+	  "username":"youssefmosalam",
+	  "email":"youssefmosalam@outlook.com",
+	  "phone":"+201111020498"
 	}
 ]
