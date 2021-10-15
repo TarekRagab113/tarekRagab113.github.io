@@ -1,23 +1,23 @@
 [
-  {
-    "id": 1,
-    "name": "Tarek Ragab",
-    "username": "tarek_ragab113",
-    "email": "Tarek.official.acc@gmail.com",
-    "phone": "+201156658038",
-  },
-  {
-    "id": 2,
-	"name": "Abdelaziz Karam",
-    "username": "Shah2xen",
-    "email": "zezoshaheen22@gmail.com",
-    "phone": "+201157548382",
-  },
-  {
-    "id": 2,
-	"name": "Tarek Mahmoud",
-    "username": "tarek.mahmoud_",
-    "email": "zezoshaheen22@gmail.com",
-    "phone": "+201100045566",
-  }
+   {
+      "id":1,
+      "name":"Tarek Ragab",
+      "username":"tarek_ragab113",
+      "email":"Tarek.official.acc@gmail.com",
+      "phone":"+201156658038"
+   },
+   {
+      "id":2,
+      "name":"Abdelaziz Karam",
+      "username":"Shah2xen",
+      "email":"zezoshaheen22@gmail.com",
+      "phone":"+201157548382"
+   },
+   {
+      "id":2,
+      "name":"Tarek Mahmoud",
+      "username":"tarek.mahmoud_",
+      "email":"zezoshaheen22@gmail.com",
+      "phone":"+201100045566"
+   }
 ]
