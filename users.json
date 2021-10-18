@@ -33,5 +33,13 @@
 	  "username":"youssefmosalam",
 	  "email":"youssefmosalam@outlook.com",
 	  "phone":"+201111020498"
+	},
+	{
+	  "id":6,
+	  "name":"Tarek Alaa",
+	  "username":"tarek_alaa",
+	  "email":"TarekAlaa2000@gmail.com",
+	  "phone":"+201100045566"
 	}
+]
 ]
